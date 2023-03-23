@@ -59,24 +59,3 @@ font-size: 14px;
 
 }
 
-.area-login {
-    animation-duration: 3s;
-    animation-name: pulse 2s infinite alternate;
-  }
-  
-  @keyframes pulse
-  {
-    
-    0%{
-        transform: translateY(0px);
-    }
-    25%{
-        transform: translatex(0px);
-    }
-    50%{
-        transform: translateY(0px);
-    }
-    100%{
-        transform: translatex(0px);
-    }
-  }
