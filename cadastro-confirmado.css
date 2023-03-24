@@ -1,7 +1,8 @@
 body
 {
 background-color: rgb(252, 192, 221);
-font-family: Arial, Helvetica, sans-serif;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 overflow: hidden;
 
 }
@@ -20,10 +21,10 @@ align-items: center;
     display: flex;
     flex-direction: column;
     align-items: center;
-background-color: rgb(250, 201, 227);
-width: 230px;
-height: 300px;
-padding: 35px;
+background-color: rgb(201, 222, 250);
+width: 290px;
+height: 200px;
+padding: 40px;
 border-radius: 12%;
 
 }
